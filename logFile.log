@@ -1,0 +1,131 @@
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T16:57:10.613Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T16:58:17.309Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T16:59:57.342Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:00:03.571Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:00:21.643Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:00:44.637Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:02:57.172Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:06:08.574Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:07:15.100Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:08:46.664Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:10:03.994Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:10:14.328Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:19:29.632Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:20:04.097Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:20:12.176Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:20:17.996Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:21:47.362Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:23:22.515Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:23:42.178Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:25:24.464Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:26:02.286Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:26:17.121Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:38:17.833Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:39:49.484Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:40:13.824Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:41:01.026Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:41:09.801Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:41:57.706Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:42:08.089Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:43:10.479Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:43:12.121Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:43:29.924Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T17:47:34.700Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T18:14:06.541Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T19:50:43.873Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T19:52:24.214Z"}
+{"message":"Port should be >= 0 and < 65536. Received NaN.","stack":"RangeError [ERR_SOCKET_BAD_PORT]: Port should be >= 0 and < 65536. Received NaN.\n    at lookupAndConnect (net.js:938:13)\n    at Socket.connect (net.js:914:5)\n    at Object.connect (net.js:162:17)\n    at makeConnection (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/connection/connect.js:270:20)\n    at makeConnection (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/connection/connect.js:36:7)\n    at callback (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/connection/connect.js:260:5)\n    at makeConnection (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/connection/connect.js:273:12)\n    at connect (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/connection/connect.js:34:10)\n    at Pool.connect (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/connection/pool.js:548:3)\n    at Server.connect (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/topologies/server.js:498:15)\n    at Server.connect (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/topologies/server.js:360:25)\n    at createServer (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/operations/mongo_client_ops.js:350:10)\n    at parseFn (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/operations/mongo_client_ops.js:245:14)\n    at parseHandler (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/url_parser.js:134:38)\n    at module.exports (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/url_parser.js:25:12)\n    at deprecated (internal/util.js:71:15)","level":"error","timestamp":"2019-05-07T19:52:24.216Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T19:53:11.695Z"}
+{"message":"Unescaped at-sign in authority section","stack":"MongoParseError: Unescaped at-sign in authority section\n    at parseConnectionString (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/uri_parser.js:538:21)\n    at connect (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/operations/mongo_client_ops.js:195:3)\n    at connectOp (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/operations/mongo_client_ops.js:284:3)\n    at executeOperation (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/utils.js:416:24)\n    at MongoClient.connect (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/mongo_client.js:175:10)\n    at Promise (/home/lenovo/Desktop/graphql/node_modules/mongoose/lib/connection.js:558:12)\n    at new Promise (<anonymous>)\n    at NativeConnection.Connection.openUri (/home/lenovo/Desktop/graphql/node_modules/mongoose/lib/connection.js:555:19)\n    at Mongoose.connect (/home/lenovo/Desktop/graphql/node_modules/mongoose/lib/index.js:289:15)\n    at Object.<anonymous> (/home/lenovo/Desktop/graphql/index.js:7:10)\n    at Module._compile (internal/modules/cjs/loader.js:738:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:749:10)\n    at Module.load (internal/modules/cjs/loader.js:630:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:570:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:562:3)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:801:12)","name":"MongoParseError","level":"error","timestamp":"2019-05-07T19:53:11.696Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T19:55:59.506Z"}
+{"message":"URI does not have hostname, domain name and tld","stack":"MongoParseError: URI does not have hostname, domain name and tld\n    at parseSrvConnectionString (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/uri_parser.js:41:21)\n    at parseConnectionString (/home/lenovo/Desktop/graphql/node_modules/mongodb-core/lib/uri_parser.js:509:12)\n    at connect (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/operations/mongo_client_ops.js:195:3)\n    at connectOp (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/operations/mongo_client_ops.js:284:3)\n    at executeOperation (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/utils.js:416:24)\n    at MongoClient.connect (/home/lenovo/Desktop/graphql/node_modules/mongodb/lib/mongo_client.js:175:10)\n    at Promise (/home/lenovo/Desktop/graphql/node_modules/mongoose/lib/connection.js:558:12)\n    at new Promise (<anonymous>)\n    at NativeConnection.Connection.openUri (/home/lenovo/Desktop/graphql/node_modules/mongoose/lib/connection.js:555:19)\n    at Mongoose.connect (/home/lenovo/Desktop/graphql/node_modules/mongoose/lib/index.js:289:15)\n    at Object.<anonymous> (/home/lenovo/Desktop/graphql/index.js:7:10)\n    at Module._compile (internal/modules/cjs/loader.js:738:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:749:10)\n    at Module.load (internal/modules/cjs/loader.js:630:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:570:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:562:3)","name":"MongoParseError","level":"error","timestamp":"2019-05-07T19:55:59.507Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:08:42.299Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:09:36.735Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:09:40.749Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:09:49.294Z"}
+{"level":"error","message":"undefined true","timestamp":"2019-05-07T20:10:51.283Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:11:24.335Z"}
+{"message":"getaddrinfo ENOTFOUND cluster0-kpglh.mongodb.net cluster0-kpglh.mongodb.net:27017","stack":"Error: getaddrinfo ENOTFOUND cluster0-kpglh.mongodb.net cluster0-kpglh.mongodb.net:27017\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:58:26)","errno":"ENOTFOUND","code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"cluster0-kpglh.mongodb.net","host":"cluster0-kpglh.mongodb.net","port":27017,"level":"error","timestamp":"2019-05-07T20:11:24.609Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:16:47.027Z"}
+{"level":"error","message":"undefined true","timestamp":"2019-05-07T20:17:47.943Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:18:16.287Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:19:12.648Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:19:34.803Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:20:24.749Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:21:21.194Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:21:45.235Z"}
+{"level":"error","message":"undefined true","timestamp":"2019-05-07T20:22:47.140Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:26:06.795Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:26:06.816Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:26:31.562Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:26:31.584Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:30:11.997Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:30:12.017Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:30:37.014Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:30:37.035Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:30:38.258Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:30:38.278Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:30:51.513Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:30:51.534Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:31:01.458Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:31:01.479Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:32:01.502Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:32:01.522Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:32:05.462Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:32:05.484Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:32:28.630Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:32:28.652Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:32:48.746Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:32:48.765Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:34:02.465Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:34:02.487Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:34:07.516Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:34:07.537Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:36:56.766Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:36:56.787Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:37:03.818Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:37:03.839Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:38:06.668Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:38:06.690Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:38:59.334Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:38:59.360Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:41:02.479Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:41:02.500Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:42:12.880Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:42:12.901Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:42:15.105Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:42:15.125Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:42:43.427Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:42:43.447Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:43:51.639Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:43:51.660Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:49:08.519Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:49:08.539Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:52:52.741Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:52:52.763Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:53:34.339Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:53:34.362Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:54:03.095Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:54:03.115Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:54:24.739Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:54:24.763Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:55:24.695Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:55:24.719Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:56:43.030Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:56:43.053Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:56:58.418Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:56:58.437Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:57:44.131Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:57:44.152Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:58:21.565Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:58:21.586Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:58:39.962Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:58:39.984Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T20:59:05.056Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T20:59:05.078Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T21:00:16.008Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T21:00:16.028Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T21:00:17.680Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T21:00:17.702Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T21:01:55.175Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-07T21:01:55.196Z"}

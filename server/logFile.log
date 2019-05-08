@@ -189,3 +189,5 @@
 {"level":"info","message":"Connected to db.","timestamp":"2019-05-08T16:03:18.299Z"}
 {"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T16:03:37.833Z"}
 {"level":"info","message":"Connected to db.","timestamp":"2019-05-08T16:03:37.845Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T20:22:25.919Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T20:22:25.931Z"}

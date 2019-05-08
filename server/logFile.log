@@ -169,3 +169,23 @@
 {"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:03:24.190Z"}
 {"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:05:51.597Z"}
 {"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:05:51.609Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:14:45.551Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:14:45.585Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T15:36:21.768Z"}
+{"message":"connect ECONNREFUSED 127.0.0.1:27017","stack":"Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1083:14)","errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":27017,"level":"error","timestamp":"2019-05-08T15:36:21.776Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T15:37:12.186Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T15:37:12.198Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T15:53:48.780Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T15:53:48.793Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T15:54:02.839Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T15:54:02.851Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T16:01:08.259Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T16:01:08.271Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T16:01:53.253Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T16:01:53.265Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T16:02:51.629Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T16:02:51.641Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T16:03:18.286Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T16:03:18.299Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T16:03:37.833Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T16:03:37.845Z"}

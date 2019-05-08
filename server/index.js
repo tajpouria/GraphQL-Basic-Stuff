@@ -1,3 +1,4 @@
+const cors = require('cors');
 const mongoose = require('mongoose');
 const express = require('express');
 const winston = require('winston');
@@ -18,6 +19,8 @@ mongoose.connection.once('open', () => {
 
 const app = express();
 winston.add(winston.transports.File, { filename: 'logFile.log' });
+
+app.use(cors());
 
 app.use(
   '/graphql',

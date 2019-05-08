@@ -129,3 +129,43 @@
 {"level":"info","message":"Connected to db.","timestamp":"2019-05-07T21:00:17.702Z"}
 {"level":"info","message":"listening on port 4000","timestamp":"2019-05-07T21:01:55.175Z"}
 {"level":"info","message":"Connected to db.","timestamp":"2019-05-07T21:01:55.196Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T06:44:41.368Z"}
+{"message":"connect ECONNREFUSED 127.0.0.1:27017","stack":"Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1083:14)","errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":27017,"level":"error","timestamp":"2019-05-08T06:44:41.380Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T06:45:23.682Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T06:45:23.703Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T06:50:50.775Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T06:50:50.802Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T06:55:59.990Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T06:56:00.013Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T06:56:39.213Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T06:56:39.235Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T06:56:40.884Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T06:56:40.905Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T07:04:51.490Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T07:04:51.534Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T07:07:36.341Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T07:07:36.385Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T07:58:24.461Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T07:58:24.473Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:00:24.384Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:00:24.397Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:00:38.030Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:00:38.043Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:00:50.154Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:00:50.168Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:00:57.817Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:00:57.831Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:01:11.690Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:01:11.705Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:01:29.018Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:01:29.031Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:01:41.030Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:01:41.049Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:01:47.626Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:01:47.639Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:02:10.244Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:02:10.257Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:03:24.177Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:03:24.190Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T08:05:51.597Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-08T08:05:51.609Z"}

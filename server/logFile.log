@@ -191,3 +191,7 @@
 {"level":"info","message":"Connected to db.","timestamp":"2019-05-08T16:03:37.845Z"}
 {"level":"info","message":"listening on port 4000","timestamp":"2019-05-08T20:22:25.919Z"}
 {"level":"info","message":"Connected to db.","timestamp":"2019-05-08T20:22:25.931Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-09T06:34:52.959Z"}
+{"message":"connect ECONNREFUSED 127.0.0.1:27017","stack":"Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1083:14)","errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":27017,"level":"error","timestamp":"2019-05-09T06:34:52.967Z"}
+{"level":"info","message":"listening on port 4000","timestamp":"2019-05-09T06:36:43.781Z"}
+{"level":"info","message":"Connected to db.","timestamp":"2019-05-09T06:36:43.793Z"}
